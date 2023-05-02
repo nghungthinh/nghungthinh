@@ -26,7 +26,7 @@
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" style="max-width: 100%;"></a>
 </p>
 
-<h2>Contact with me</h2>
+<h2><strong>Contact With Me</strong></h2>
 
 <!--
 **Pluto-Sheol/Pluto-Sheol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
