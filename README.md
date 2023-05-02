@@ -13,7 +13,7 @@
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png"></g-emoji> I’m currently working on <a href="https://hcmute.edu.vn/" rel="nofollow"><strong>HCMC UTE</strong></a></li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"></g-emoji> I’m currently learning <strong>AI, Embedded Systems, and UX/UI</strong></li>
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"></g-emoji> How to reach me: <a href="https://www.facebook.com/BaeSSG69/" rel="nofollow"><em><strong>Facebook</strong></em></a> <a href="https://www.linkedin.com/in/syun-cet/" rel="nofollow"><em><strong></strong></em></a></li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"></g-emoji> How to reach me: <a href="https://www.facebook.com/PlutoShoel/" rel="nofollow"><em><strong>Facebook</strong></em></a> <a href="https://www.linkedin.com/in/syun-cet/" rel="nofollow"><em><strong></strong></em></a></li>
 <li><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png"></g-emoji> Pronouns: English, VietNamese</li>
 </ul>
 
